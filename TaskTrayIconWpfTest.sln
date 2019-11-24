@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.161
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTrayIconWpfTest", "TaskTrayIconWpfTest\TaskTrayIconWpfTest.csproj", "{C6A50E3F-89B0-4CC5-9FC7-897621D28160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6A50E3F-89B0-4CC5-9FC7-897621D28160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A50E3F-89B0-4CC5-9FC7-897621D28160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A50E3F-89B0-4CC5-9FC7-897621D28160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A50E3F-89B0-4CC5-9FC7-897621D28160}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DE276C7-6D43-47A9-978F-02DEB96994EF}
+	EndGlobalSection
+EndGlobal
